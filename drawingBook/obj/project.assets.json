@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danny\\Desktop\\HackerRank\\HackerRankAlgos\\bonAppetit\\bonAppetit.csproj",
-      "projectName": "bonAppetit",
-      "projectPath": "C:\\Users\\Danny\\Desktop\\HackerRank\\HackerRankAlgos\\bonAppetit\\bonAppetit.csproj",
+      "projectUniqueName": "C:\\Users\\Danny\\Desktop\\HackerRank\\HackerRankAlgos\\drawingBook\\drawingBook.csproj",
+      "projectName": "drawingBook",
+      "projectPath": "C:\\Users\\Danny\\Desktop\\HackerRank\\HackerRankAlgos\\drawingBook\\drawingBook.csproj",
       "packagesPath": "C:\\Users\\Danny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danny\\Desktop\\HackerRank\\HackerRankAlgos\\bonAppetit\\obj\\",
+      "outputPath": "C:\\Users\\Danny\\Desktop\\HackerRank\\HackerRankAlgos\\drawingBook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
