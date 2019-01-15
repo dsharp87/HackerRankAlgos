@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\hackerrank\migratoryBirds\bin\Debug\netcoreapp2.1\migratoryBirds.deps.json
+C:\Users\v-daswa\Desktop\hackerrank\migratoryBirds\bin\Debug\netcoreapp2.1\migratoryBirds.runtimeconfig.json
+C:\Users\v-daswa\Desktop\hackerrank\migratoryBirds\bin\Debug\netcoreapp2.1\migratoryBirds.runtimeconfig.dev.json
+C:\Users\v-daswa\Desktop\hackerrank\migratoryBirds\bin\Debug\netcoreapp2.1\migratoryBirds.dll
+C:\Users\v-daswa\Desktop\hackerrank\migratoryBirds\bin\Debug\netcoreapp2.1\migratoryBirds.pdb
+C:\Users\v-daswa\Desktop\hackerrank\migratoryBirds\obj\Debug\netcoreapp2.1\migratoryBirds.csprojAssemblyReference.cache
+C:\Users\v-daswa\Desktop\hackerrank\migratoryBirds\obj\Debug\netcoreapp2.1\migratoryBirds.csproj.CoreCompileInputs.cache
+C:\Users\v-daswa\Desktop\hackerrank\migratoryBirds\obj\Debug\netcoreapp2.1\migratoryBirds.AssemblyInfoInputs.cache
+C:\Users\v-daswa\Desktop\hackerrank\migratoryBirds\obj\Debug\netcoreapp2.1\migratoryBirds.AssemblyInfo.cs
+C:\Users\v-daswa\Desktop\hackerrank\migratoryBirds\obj\Debug\netcoreapp2.1\migratoryBirds.dll
+C:\Users\v-daswa\Desktop\hackerrank\migratoryBirds\obj\Debug\netcoreapp2.1\migratoryBirds.pdb

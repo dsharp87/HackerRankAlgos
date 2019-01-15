@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\hackerrank\minmaxsum\obj\Debug\netcoreapp2.1\minmaxsum.csprojAssemblyReference.cache
+C:\Users\v-daswa\Desktop\hackerrank\minmaxsum\obj\Debug\netcoreapp2.1\minmaxsum.csproj.CoreCompileInputs.cache
+C:\Users\v-daswa\Desktop\hackerrank\minmaxsum\obj\Debug\netcoreapp2.1\minmaxsum.AssemblyInfoInputs.cache
+C:\Users\v-daswa\Desktop\hackerrank\minmaxsum\obj\Debug\netcoreapp2.1\minmaxsum.AssemblyInfo.cs
+C:\Users\v-daswa\Desktop\hackerrank\minmaxsum\bin\Debug\netcoreapp2.1\minmaxsum.deps.json
+C:\Users\v-daswa\Desktop\hackerrank\minmaxsum\bin\Debug\netcoreapp2.1\minmaxsum.runtimeconfig.json
+C:\Users\v-daswa\Desktop\hackerrank\minmaxsum\bin\Debug\netcoreapp2.1\minmaxsum.runtimeconfig.dev.json
+C:\Users\v-daswa\Desktop\hackerrank\minmaxsum\bin\Debug\netcoreapp2.1\minmaxsum.dll
+C:\Users\v-daswa\Desktop\hackerrank\minmaxsum\bin\Debug\netcoreapp2.1\minmaxsum.pdb
+C:\Users\v-daswa\Desktop\hackerrank\minmaxsum\obj\Debug\netcoreapp2.1\minmaxsum.dll
+C:\Users\v-daswa\Desktop\hackerrank\minmaxsum\obj\Debug\netcoreapp2.1\minmaxsum.pdb

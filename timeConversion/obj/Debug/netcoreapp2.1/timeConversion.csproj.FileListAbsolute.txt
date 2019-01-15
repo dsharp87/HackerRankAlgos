@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\hackerrank\timeConversion\bin\Debug\netcoreapp2.1\timeConversion.deps.json
+C:\Users\v-daswa\Desktop\hackerrank\timeConversion\bin\Debug\netcoreapp2.1\timeConversion.runtimeconfig.json
+C:\Users\v-daswa\Desktop\hackerrank\timeConversion\bin\Debug\netcoreapp2.1\timeConversion.runtimeconfig.dev.json
+C:\Users\v-daswa\Desktop\hackerrank\timeConversion\bin\Debug\netcoreapp2.1\timeConversion.dll
+C:\Users\v-daswa\Desktop\hackerrank\timeConversion\bin\Debug\netcoreapp2.1\timeConversion.pdb
+C:\Users\v-daswa\Desktop\hackerrank\timeConversion\obj\Debug\netcoreapp2.1\timeConversion.csprojAssemblyReference.cache
+C:\Users\v-daswa\Desktop\hackerrank\timeConversion\obj\Debug\netcoreapp2.1\timeConversion.csproj.CoreCompileInputs.cache
+C:\Users\v-daswa\Desktop\hackerrank\timeConversion\obj\Debug\netcoreapp2.1\timeConversion.AssemblyInfoInputs.cache
+C:\Users\v-daswa\Desktop\hackerrank\timeConversion\obj\Debug\netcoreapp2.1\timeConversion.AssemblyInfo.cs
+C:\Users\v-daswa\Desktop\hackerrank\timeConversion\obj\Debug\netcoreapp2.1\timeConversion.dll
+C:\Users\v-daswa\Desktop\hackerrank\timeConversion\obj\Debug\netcoreapp2.1\timeConversion.pdb

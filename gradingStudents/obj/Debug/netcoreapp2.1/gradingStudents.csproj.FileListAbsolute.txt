@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\hackerrank\gradingStudents\bin\Debug\netcoreapp2.1\gradingStudents.deps.json
+C:\Users\v-daswa\Desktop\hackerrank\gradingStudents\bin\Debug\netcoreapp2.1\gradingStudents.runtimeconfig.json
+C:\Users\v-daswa\Desktop\hackerrank\gradingStudents\bin\Debug\netcoreapp2.1\gradingStudents.runtimeconfig.dev.json
+C:\Users\v-daswa\Desktop\hackerrank\gradingStudents\bin\Debug\netcoreapp2.1\gradingStudents.dll
+C:\Users\v-daswa\Desktop\hackerrank\gradingStudents\bin\Debug\netcoreapp2.1\gradingStudents.pdb
+C:\Users\v-daswa\Desktop\hackerrank\gradingStudents\obj\Debug\netcoreapp2.1\gradingStudents.csprojAssemblyReference.cache
+C:\Users\v-daswa\Desktop\hackerrank\gradingStudents\obj\Debug\netcoreapp2.1\gradingStudents.csproj.CoreCompileInputs.cache
+C:\Users\v-daswa\Desktop\hackerrank\gradingStudents\obj\Debug\netcoreapp2.1\gradingStudents.AssemblyInfoInputs.cache
+C:\Users\v-daswa\Desktop\hackerrank\gradingStudents\obj\Debug\netcoreapp2.1\gradingStudents.AssemblyInfo.cs
+C:\Users\v-daswa\Desktop\hackerrank\gradingStudents\obj\Debug\netcoreapp2.1\gradingStudents.dll
+C:\Users\v-daswa\Desktop\hackerrank\gradingStudents\obj\Debug\netcoreapp2.1\gradingStudents.pdb

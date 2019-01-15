@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\hackerrank\birthdaycandles\bin\Debug\netcoreapp2.1\birthdaycandles.deps.json
+C:\Users\v-daswa\Desktop\hackerrank\birthdaycandles\bin\Debug\netcoreapp2.1\birthdaycandles.runtimeconfig.json
+C:\Users\v-daswa\Desktop\hackerrank\birthdaycandles\bin\Debug\netcoreapp2.1\birthdaycandles.runtimeconfig.dev.json
+C:\Users\v-daswa\Desktop\hackerrank\birthdaycandles\bin\Debug\netcoreapp2.1\birthdaycandles.dll
+C:\Users\v-daswa\Desktop\hackerrank\birthdaycandles\bin\Debug\netcoreapp2.1\birthdaycandles.pdb
+C:\Users\v-daswa\Desktop\hackerrank\birthdaycandles\obj\Debug\netcoreapp2.1\birthdaycandles.csprojAssemblyReference.cache
+C:\Users\v-daswa\Desktop\hackerrank\birthdaycandles\obj\Debug\netcoreapp2.1\birthdaycandles.csproj.CoreCompileInputs.cache
+C:\Users\v-daswa\Desktop\hackerrank\birthdaycandles\obj\Debug\netcoreapp2.1\birthdaycandles.AssemblyInfoInputs.cache
+C:\Users\v-daswa\Desktop\hackerrank\birthdaycandles\obj\Debug\netcoreapp2.1\birthdaycandles.AssemblyInfo.cs
+C:\Users\v-daswa\Desktop\hackerrank\birthdaycandles\obj\Debug\netcoreapp2.1\birthdaycandles.dll
+C:\Users\v-daswa\Desktop\hackerrank\birthdaycandles\obj\Debug\netcoreapp2.1\birthdaycandles.pdb
