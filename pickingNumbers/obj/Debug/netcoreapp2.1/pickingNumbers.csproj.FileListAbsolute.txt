@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\OtherAlgos\pickingNumbers\bin\Debug\netcoreapp2.1\pickingNumbers.deps.json
+C:\Users\v-daswa\Desktop\OtherAlgos\pickingNumbers\bin\Debug\netcoreapp2.1\pickingNumbers.runtimeconfig.json
+C:\Users\v-daswa\Desktop\OtherAlgos\pickingNumbers\bin\Debug\netcoreapp2.1\pickingNumbers.runtimeconfig.dev.json
+C:\Users\v-daswa\Desktop\OtherAlgos\pickingNumbers\bin\Debug\netcoreapp2.1\pickingNumbers.dll
+C:\Users\v-daswa\Desktop\OtherAlgos\pickingNumbers\bin\Debug\netcoreapp2.1\pickingNumbers.pdb
+C:\Users\v-daswa\Desktop\OtherAlgos\pickingNumbers\obj\Debug\netcoreapp2.1\pickingNumbers.csprojAssemblyReference.cache
+C:\Users\v-daswa\Desktop\OtherAlgos\pickingNumbers\obj\Debug\netcoreapp2.1\pickingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\v-daswa\Desktop\OtherAlgos\pickingNumbers\obj\Debug\netcoreapp2.1\pickingNumbers.AssemblyInfoInputs.cache
+C:\Users\v-daswa\Desktop\OtherAlgos\pickingNumbers\obj\Debug\netcoreapp2.1\pickingNumbers.AssemblyInfo.cs
+C:\Users\v-daswa\Desktop\OtherAlgos\pickingNumbers\obj\Debug\netcoreapp2.1\pickingNumbers.dll
+C:\Users\v-daswa\Desktop\OtherAlgos\pickingNumbers\obj\Debug\netcoreapp2.1\pickingNumbers.pdb

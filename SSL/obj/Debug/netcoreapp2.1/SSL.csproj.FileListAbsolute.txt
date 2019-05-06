@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\OtherAlgos\SSL\bin\Debug\netcoreapp2.1\SSL.deps.json
+C:\Users\v-daswa\Desktop\OtherAlgos\SSL\bin\Debug\netcoreapp2.1\SSL.runtimeconfig.json
+C:\Users\v-daswa\Desktop\OtherAlgos\SSL\bin\Debug\netcoreapp2.1\SSL.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\OtherAlgos\SSL\bin\Debug\netcoreapp2.1\SSL.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\SSL\bin\Debug\netcoreapp2.1\SSL.pdb
+c:\Users\v-daswa\Desktop\OtherAlgos\SSL\obj\Debug\netcoreapp2.1\SSL.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\SSL\obj\Debug\netcoreapp2.1\SSL.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\SSL\obj\Debug\netcoreapp2.1\SSL.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\SSL\obj\Debug\netcoreapp2.1\SSL.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\OtherAlgos\SSL\obj\Debug\netcoreapp2.1\SSL.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\SSL\obj\Debug\netcoreapp2.1\SSL.pdb

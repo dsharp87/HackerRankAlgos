@@ -1,0 +1,11 @@
+C:\Users\v-daswa\algos\pdfViewer\bin\Debug\netcoreapp2.1\pdfViewer.deps.json
+C:\Users\v-daswa\algos\pdfViewer\bin\Debug\netcoreapp2.1\pdfViewer.runtimeconfig.json
+C:\Users\v-daswa\algos\pdfViewer\bin\Debug\netcoreapp2.1\pdfViewer.runtimeconfig.dev.json
+C:\Users\v-daswa\algos\pdfViewer\bin\Debug\netcoreapp2.1\pdfViewer.dll
+C:\Users\v-daswa\algos\pdfViewer\bin\Debug\netcoreapp2.1\pdfViewer.pdb
+C:\Users\v-daswa\algos\pdfViewer\obj\Debug\netcoreapp2.1\pdfViewer.csprojAssemblyReference.cache
+C:\Users\v-daswa\algos\pdfViewer\obj\Debug\netcoreapp2.1\pdfViewer.csproj.CoreCompileInputs.cache
+C:\Users\v-daswa\algos\pdfViewer\obj\Debug\netcoreapp2.1\pdfViewer.AssemblyInfoInputs.cache
+C:\Users\v-daswa\algos\pdfViewer\obj\Debug\netcoreapp2.1\pdfViewer.AssemblyInfo.cs
+C:\Users\v-daswa\algos\pdfViewer\obj\Debug\netcoreapp2.1\pdfViewer.dll
+C:\Users\v-daswa\algos\pdfViewer\obj\Debug\netcoreapp2.1\pdfViewer.pdb

@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\OtherAlgos\beautiMovie\bin\Debug\netcoreapp2.1\beautiMovie.deps.json
+C:\Users\v-daswa\Desktop\OtherAlgos\beautiMovie\bin\Debug\netcoreapp2.1\beautiMovie.runtimeconfig.json
+C:\Users\v-daswa\Desktop\OtherAlgos\beautiMovie\bin\Debug\netcoreapp2.1\beautiMovie.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\OtherAlgos\beautiMovie\bin\Debug\netcoreapp2.1\beautiMovie.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\beautiMovie\bin\Debug\netcoreapp2.1\beautiMovie.pdb
+c:\Users\v-daswa\Desktop\OtherAlgos\beautiMovie\obj\Debug\netcoreapp2.1\beautiMovie.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\beautiMovie\obj\Debug\netcoreapp2.1\beautiMovie.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\beautiMovie\obj\Debug\netcoreapp2.1\beautiMovie.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\beautiMovie\obj\Debug\netcoreapp2.1\beautiMovie.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\OtherAlgos\beautiMovie\obj\Debug\netcoreapp2.1\beautiMovie.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\beautiMovie\obj\Debug\netcoreapp2.1\beautiMovie.pdb

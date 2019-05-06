@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\OtherAlgos\savePrisoner\bin\Debug\netcoreapp2.1\savePrisoner.deps.json
+C:\Users\v-daswa\Desktop\OtherAlgos\savePrisoner\bin\Debug\netcoreapp2.1\savePrisoner.runtimeconfig.json
+C:\Users\v-daswa\Desktop\OtherAlgos\savePrisoner\bin\Debug\netcoreapp2.1\savePrisoner.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\OtherAlgos\savePrisoner\bin\Debug\netcoreapp2.1\savePrisoner.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\savePrisoner\bin\Debug\netcoreapp2.1\savePrisoner.pdb
+c:\Users\v-daswa\Desktop\OtherAlgos\savePrisoner\obj\Debug\netcoreapp2.1\savePrisoner.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\savePrisoner\obj\Debug\netcoreapp2.1\savePrisoner.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\savePrisoner\obj\Debug\netcoreapp2.1\savePrisoner.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\savePrisoner\obj\Debug\netcoreapp2.1\savePrisoner.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\OtherAlgos\savePrisoner\obj\Debug\netcoreapp2.1\savePrisoner.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\savePrisoner\obj\Debug\netcoreapp2.1\savePrisoner.pdb
