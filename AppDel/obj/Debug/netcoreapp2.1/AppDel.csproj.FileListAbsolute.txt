@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\AppDel\bin\Debug\netcoreapp2.1\AppDel.deps.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\AppDel\bin\Debug\netcoreapp2.1\AppDel.runtimeconfig.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\AppDel\bin\Debug\netcoreapp2.1\AppDel.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\AppDel\bin\Debug\netcoreapp2.1\AppDel.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\AppDel\bin\Debug\netcoreapp2.1\AppDel.pdb
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\AppDel\obj\Debug\netcoreapp2.1\AppDel.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\AppDel\obj\Debug\netcoreapp2.1\AppDel.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\AppDel\obj\Debug\netcoreapp2.1\AppDel.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\AppDel\obj\Debug\netcoreapp2.1\AppDel.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\AppDel\obj\Debug\netcoreapp2.1\AppDel.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\AppDel\obj\Debug\netcoreapp2.1\AppDel.pdb

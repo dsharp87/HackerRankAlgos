@@ -1,0 +1,11 @@
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Find_Digits\obj\Debug\netcoreapp2.1\Find_Digits.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Find_Digits\obj\Debug\netcoreapp2.1\Find_Digits.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Find_Digits\obj\Debug\netcoreapp2.1\Find_Digits.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Find_Digits\obj\Debug\netcoreapp2.1\Find_Digits.AssemblyInfo.cs
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Find_Digits\bin\Debug\netcoreapp2.1\Find_Digits.deps.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Find_Digits\bin\Debug\netcoreapp2.1\Find_Digits.runtimeconfig.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Find_Digits\bin\Debug\netcoreapp2.1\Find_Digits.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Find_Digits\bin\Debug\netcoreapp2.1\Find_Digits.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Find_Digits\bin\Debug\netcoreapp2.1\Find_Digits.pdb
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Find_Digits\obj\Debug\netcoreapp2.1\Find_Digits.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Find_Digits\obj\Debug\netcoreapp2.1\Find_Digits.pdb
