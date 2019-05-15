@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\customsort\bin\Debug\netcoreapp2.1\customsort.deps.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\customsort\bin\Debug\netcoreapp2.1\customsort.runtimeconfig.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\customsort\bin\Debug\netcoreapp2.1\customsort.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\customsort\bin\Debug\netcoreapp2.1\customsort.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\customsort\bin\Debug\netcoreapp2.1\customsort.pdb
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\customsort\obj\Debug\netcoreapp2.1\customsort.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\customsort\obj\Debug\netcoreapp2.1\customsort.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\customsort\obj\Debug\netcoreapp2.1\customsort.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\customsort\obj\Debug\netcoreapp2.1\customsort.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\customsort\obj\Debug\netcoreapp2.1\customsort.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\customsort\obj\Debug\netcoreapp2.1\customsort.pdb

@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\lowestNumberRecursion\bin\Debug\netcoreapp2.1\lowestNumberRecursion.deps.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\lowestNumberRecursion\bin\Debug\netcoreapp2.1\lowestNumberRecursion.runtimeconfig.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\lowestNumberRecursion\bin\Debug\netcoreapp2.1\lowestNumberRecursion.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\lowestNumberRecursion\bin\Debug\netcoreapp2.1\lowestNumberRecursion.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\lowestNumberRecursion\bin\Debug\netcoreapp2.1\lowestNumberRecursion.pdb
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\lowestNumberRecursion\obj\Debug\netcoreapp2.1\lowestNumberRecursion.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\lowestNumberRecursion\obj\Debug\netcoreapp2.1\lowestNumberRecursion.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\lowestNumberRecursion\obj\Debug\netcoreapp2.1\lowestNumberRecursion.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\lowestNumberRecursion\obj\Debug\netcoreapp2.1\lowestNumberRecursion.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\lowestNumberRecursion\obj\Debug\netcoreapp2.1\lowestNumberRecursion.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\lowestNumberRecursion\obj\Debug\netcoreapp2.1\lowestNumberRecursion.pdb

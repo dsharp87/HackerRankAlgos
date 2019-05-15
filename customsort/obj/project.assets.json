@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\v-daswa\\Desktop\\OtherAlgos\\HackerRankAlgos\\savePrisoner\\savePrisoner.csproj",
-      "projectName": "savePrisoner",
-      "projectPath": "c:\\Users\\v-daswa\\Desktop\\OtherAlgos\\HackerRankAlgos\\savePrisoner\\savePrisoner.csproj",
+      "projectUniqueName": "C:\\Users\\v-daswa\\Desktop\\OtherAlgos\\HackerRankAlgos\\customsort\\customsort.csproj",
+      "projectName": "customsort",
+      "projectPath": "C:\\Users\\v-daswa\\Desktop\\OtherAlgos\\HackerRankAlgos\\customsort\\customsort.csproj",
       "packagesPath": "C:\\Users\\v-daswa\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\v-daswa\\Desktop\\OtherAlgos\\HackerRankAlgos\\savePrisoner\\obj\\",
+      "outputPath": "C:\\Users\\v-daswa\\Desktop\\OtherAlgos\\HackerRankAlgos\\customsort\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
