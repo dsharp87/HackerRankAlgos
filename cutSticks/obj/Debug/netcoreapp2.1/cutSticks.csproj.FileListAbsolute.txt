@@ -1,0 +1,11 @@
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\cutSticks\obj\Debug\netcoreapp2.1\cutSticks.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\cutSticks\obj\Debug\netcoreapp2.1\cutSticks.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\cutSticks\obj\Debug\netcoreapp2.1\cutSticks.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\cutSticks\obj\Debug\netcoreapp2.1\cutSticks.AssemblyInfo.cs
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\cutSticks\bin\Debug\netcoreapp2.1\cutSticks.deps.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\cutSticks\bin\Debug\netcoreapp2.1\cutSticks.runtimeconfig.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\cutSticks\bin\Debug\netcoreapp2.1\cutSticks.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\cutSticks\bin\Debug\netcoreapp2.1\cutSticks.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\cutSticks\bin\Debug\netcoreapp2.1\cutSticks.pdb
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\cutSticks\obj\Debug\netcoreapp2.1\cutSticks.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\cutSticks\obj\Debug\netcoreapp2.1\cutSticks.pdb
