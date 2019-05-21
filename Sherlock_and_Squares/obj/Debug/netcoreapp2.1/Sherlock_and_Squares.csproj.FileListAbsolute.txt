@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sherlock_and_Squares\bin\Debug\netcoreapp2.1\Sherlock_and_Squares.deps.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sherlock_and_Squares\bin\Debug\netcoreapp2.1\Sherlock_and_Squares.runtimeconfig.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sherlock_and_Squares\bin\Debug\netcoreapp2.1\Sherlock_and_Squares.runtimeconfig.dev.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sherlock_and_Squares\bin\Debug\netcoreapp2.1\Sherlock_and_Squares.dll
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sherlock_and_Squares\bin\Debug\netcoreapp2.1\Sherlock_and_Squares.pdb
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sherlock_and_Squares\obj\Debug\netcoreapp2.1\Sherlock_and_Squares.csprojAssemblyReference.cache
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sherlock_and_Squares\obj\Debug\netcoreapp2.1\Sherlock_and_Squares.csproj.CoreCompileInputs.cache
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sherlock_and_Squares\obj\Debug\netcoreapp2.1\Sherlock_and_Squares.AssemblyInfoInputs.cache
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sherlock_and_Squares\obj\Debug\netcoreapp2.1\Sherlock_and_Squares.AssemblyInfo.cs
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sherlock_and_Squares\obj\Debug\netcoreapp2.1\Sherlock_and_Squares.dll
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sherlock_and_Squares\obj\Debug\netcoreapp2.1\Sherlock_and_Squares.pdb
