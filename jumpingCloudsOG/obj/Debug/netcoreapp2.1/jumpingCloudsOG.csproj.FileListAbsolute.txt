@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\jumpingCloudsOG\bin\Debug\netcoreapp2.1\jumpingCloudsOG.deps.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\jumpingCloudsOG\bin\Debug\netcoreapp2.1\jumpingCloudsOG.runtimeconfig.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\jumpingCloudsOG\bin\Debug\netcoreapp2.1\jumpingCloudsOG.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\jumpingCloudsOG\bin\Debug\netcoreapp2.1\jumpingCloudsOG.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\jumpingCloudsOG\bin\Debug\netcoreapp2.1\jumpingCloudsOG.pdb
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\jumpingCloudsOG\obj\Debug\netcoreapp2.1\jumpingCloudsOG.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\jumpingCloudsOG\obj\Debug\netcoreapp2.1\jumpingCloudsOG.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\jumpingCloudsOG\obj\Debug\netcoreapp2.1\jumpingCloudsOG.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\jumpingCloudsOG\obj\Debug\netcoreapp2.1\jumpingCloudsOG.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\jumpingCloudsOG\obj\Debug\netcoreapp2.1\jumpingCloudsOG.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\jumpingCloudsOG\obj\Debug\netcoreapp2.1\jumpingCloudsOG.pdb
