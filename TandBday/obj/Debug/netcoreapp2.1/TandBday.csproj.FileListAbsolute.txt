@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\TandBday\bin\Debug\netcoreapp2.1\TandBday.deps.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\TandBday\bin\Debug\netcoreapp2.1\TandBday.runtimeconfig.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\TandBday\bin\Debug\netcoreapp2.1\TandBday.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\TandBday\bin\Debug\netcoreapp2.1\TandBday.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\TandBday\bin\Debug\netcoreapp2.1\TandBday.pdb
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\TandBday\obj\Debug\netcoreapp2.1\TandBday.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\TandBday\obj\Debug\netcoreapp2.1\TandBday.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\TandBday\obj\Debug\netcoreapp2.1\TandBday.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\TandBday\obj\Debug\netcoreapp2.1\TandBday.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\TandBday\obj\Debug\netcoreapp2.1\TandBday.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\TandBday\obj\Debug\netcoreapp2.1\TandBday.pdb
