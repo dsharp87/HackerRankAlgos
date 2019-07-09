@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\binarySearch\bin\Debug\netcoreapp2.1\binarySearch.deps.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\binarySearch\bin\Debug\netcoreapp2.1\binarySearch.runtimeconfig.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\binarySearch\bin\Debug\netcoreapp2.1\binarySearch.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\binarySearch\bin\Debug\netcoreapp2.1\binarySearch.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\binarySearch\bin\Debug\netcoreapp2.1\binarySearch.pdb
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\binarySearch\obj\Debug\netcoreapp2.1\binarySearch.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\binarySearch\obj\Debug\netcoreapp2.1\binarySearch.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\binarySearch\obj\Debug\netcoreapp2.1\binarySearch.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\binarySearch\obj\Debug\netcoreapp2.1\binarySearch.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\binarySearch\obj\Debug\netcoreapp2.1\binarySearch.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\binarySearch\obj\Debug\netcoreapp2.1\binarySearch.pdb

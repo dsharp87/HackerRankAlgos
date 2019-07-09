@@ -1,0 +1,11 @@
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\insertionSort\obj\Debug\netcoreapp2.1\insertionSort.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\insertionSort\obj\Debug\netcoreapp2.1\insertionSort.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\insertionSort\obj\Debug\netcoreapp2.1\insertionSort.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\insertionSort\obj\Debug\netcoreapp2.1\insertionSort.AssemblyInfo.cs
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\insertionSort\bin\Debug\netcoreapp2.1\insertionSort.deps.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\insertionSort\bin\Debug\netcoreapp2.1\insertionSort.runtimeconfig.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\insertionSort\bin\Debug\netcoreapp2.1\insertionSort.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\insertionSort\bin\Debug\netcoreapp2.1\insertionSort.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\insertionSort\bin\Debug\netcoreapp2.1\insertionSort.pdb
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\insertionSort\obj\Debug\netcoreapp2.1\insertionSort.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\insertionSort\obj\Debug\netcoreapp2.1\insertionSort.pdb
