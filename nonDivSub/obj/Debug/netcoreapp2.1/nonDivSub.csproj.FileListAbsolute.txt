@@ -1,0 +1,11 @@
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\nonDivSub\obj\Debug\netcoreapp2.1\nonDivSub.csprojAssemblyReference.cache
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\nonDivSub\obj\Debug\netcoreapp2.1\nonDivSub.csproj.CoreCompileInputs.cache
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\nonDivSub\obj\Debug\netcoreapp2.1\nonDivSub.AssemblyInfoInputs.cache
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\nonDivSub\obj\Debug\netcoreapp2.1\nonDivSub.AssemblyInfo.cs
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\nonDivSub\bin\Debug\netcoreapp2.1\nonDivSub.deps.json
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\nonDivSub\bin\Debug\netcoreapp2.1\nonDivSub.runtimeconfig.json
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\nonDivSub\bin\Debug\netcoreapp2.1\nonDivSub.runtimeconfig.dev.json
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\nonDivSub\bin\Debug\netcoreapp2.1\nonDivSub.dll
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\nonDivSub\bin\Debug\netcoreapp2.1\nonDivSub.pdb
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\nonDivSub\obj\Debug\netcoreapp2.1\nonDivSub.dll
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\nonDivSub\obj\Debug\netcoreapp2.1\nonDivSub.pdb
