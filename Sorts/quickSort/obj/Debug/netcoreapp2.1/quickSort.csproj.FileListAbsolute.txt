@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\quickSort\bin\Debug\netcoreapp2.1\quickSort.deps.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\quickSort\bin\Debug\netcoreapp2.1\quickSort.runtimeconfig.json
+C:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\quickSort\bin\Debug\netcoreapp2.1\quickSort.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\quickSort\bin\Debug\netcoreapp2.1\quickSort.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\quickSort\bin\Debug\netcoreapp2.1\quickSort.pdb
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\quickSort\obj\Debug\netcoreapp2.1\quickSort.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\quickSort\obj\Debug\netcoreapp2.1\quickSort.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\quickSort\obj\Debug\netcoreapp2.1\quickSort.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\quickSort\obj\Debug\netcoreapp2.1\quickSort.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\quickSort\obj\Debug\netcoreapp2.1\quickSort.dll
+c:\Users\v-daswa\Desktop\OtherAlgos\HackerRankAlgos\Sorts\quickSort\obj\Debug\netcoreapp2.1\quickSort.pdb
