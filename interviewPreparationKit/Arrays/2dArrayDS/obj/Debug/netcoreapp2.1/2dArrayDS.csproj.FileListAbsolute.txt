@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\2dArrayDS\bin\Debug\netcoreapp2.1\2dArrayDS.deps.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\2dArrayDS\bin\Debug\netcoreapp2.1\2dArrayDS.runtimeconfig.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\2dArrayDS\bin\Debug\netcoreapp2.1\2dArrayDS.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\2dArrayDS\bin\Debug\netcoreapp2.1\2dArrayDS.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\2dArrayDS\bin\Debug\netcoreapp2.1\2dArrayDS.pdb
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\2dArrayDS\obj\Debug\netcoreapp2.1\2dArrayDS.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\2dArrayDS\obj\Debug\netcoreapp2.1\2dArrayDS.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\2dArrayDS\obj\Debug\netcoreapp2.1\2dArrayDS.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\2dArrayDS\obj\Debug\netcoreapp2.1\2dArrayDS.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\2dArrayDS\obj\Debug\netcoreapp2.1\2dArrayDS.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\2dArrayDS\obj\Debug\netcoreapp2.1\2dArrayDS.pdb

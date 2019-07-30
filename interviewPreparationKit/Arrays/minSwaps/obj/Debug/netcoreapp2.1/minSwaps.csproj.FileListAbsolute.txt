@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\minSwaps\bin\Debug\netcoreapp2.1\minSwaps.deps.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\minSwaps\bin\Debug\netcoreapp2.1\minSwaps.runtimeconfig.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\minSwaps\bin\Debug\netcoreapp2.1\minSwaps.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\minSwaps\bin\Debug\netcoreapp2.1\minSwaps.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\minSwaps\bin\Debug\netcoreapp2.1\minSwaps.pdb
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\minSwaps\obj\Debug\netcoreapp2.1\minSwaps.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\minSwaps\obj\Debug\netcoreapp2.1\minSwaps.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\minSwaps\obj\Debug\netcoreapp2.1\minSwaps.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\minSwaps\obj\Debug\netcoreapp2.1\minSwaps.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\minSwaps\obj\Debug\netcoreapp2.1\minSwaps.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\minSwaps\obj\Debug\netcoreapp2.1\minSwaps.pdb

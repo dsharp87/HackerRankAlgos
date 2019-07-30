@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\NewYearChaos\bin\Debug\netcoreapp2.1\NewYearChaos.deps.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\NewYearChaos\bin\Debug\netcoreapp2.1\NewYearChaos.runtimeconfig.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\NewYearChaos\bin\Debug\netcoreapp2.1\NewYearChaos.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\NewYearChaos\bin\Debug\netcoreapp2.1\NewYearChaos.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\NewYearChaos\bin\Debug\netcoreapp2.1\NewYearChaos.pdb
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\NewYearChaos\obj\Debug\netcoreapp2.1\NewYearChaos.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\NewYearChaos\obj\Debug\netcoreapp2.1\NewYearChaos.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\NewYearChaos\obj\Debug\netcoreapp2.1\NewYearChaos.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\NewYearChaos\obj\Debug\netcoreapp2.1\NewYearChaos.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\NewYearChaos\obj\Debug\netcoreapp2.1\NewYearChaos.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\NewYearChaos\obj\Debug\netcoreapp2.1\NewYearChaos.pdb
