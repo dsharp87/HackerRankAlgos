@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\v-daswa\\Desktop\\OtherAlgos\\HackerRankAlgos\\Sorts\\quickSort\\quickSort.csproj",
+      "projectUniqueName": "c:\\Users\\v-daswa\\Desktop\\learningPractice\\OtherAlgos\\HackerRankAlgos\\Sorts\\quickSort\\quickSort.csproj",
       "projectName": "quickSort",
-      "projectPath": "C:\\Users\\v-daswa\\Desktop\\OtherAlgos\\HackerRankAlgos\\Sorts\\quickSort\\quickSort.csproj",
+      "projectPath": "c:\\Users\\v-daswa\\Desktop\\learningPractice\\OtherAlgos\\HackerRankAlgos\\Sorts\\quickSort\\quickSort.csproj",
       "packagesPath": "C:\\Users\\v-daswa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\v-daswa\\Desktop\\OtherAlgos\\HackerRankAlgos\\Sorts\\quickSort\\obj\\",
+      "outputPath": "c:\\Users\\v-daswa\\Desktop\\learningPractice\\OtherAlgos\\HackerRankAlgos\\Sorts\\quickSort\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

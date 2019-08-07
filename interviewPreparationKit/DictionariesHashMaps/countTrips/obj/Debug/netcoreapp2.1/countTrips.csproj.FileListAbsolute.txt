@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\countTrips\bin\Debug\netcoreapp2.1\countTrips.deps.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\countTrips\bin\Debug\netcoreapp2.1\countTrips.runtimeconfig.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\countTrips\bin\Debug\netcoreapp2.1\countTrips.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\countTrips\bin\Debug\netcoreapp2.1\countTrips.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\countTrips\bin\Debug\netcoreapp2.1\countTrips.pdb
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\countTrips\obj\Debug\netcoreapp2.1\countTrips.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\countTrips\obj\Debug\netcoreapp2.1\countTrips.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\countTrips\obj\Debug\netcoreapp2.1\countTrips.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\countTrips\obj\Debug\netcoreapp2.1\countTrips.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\countTrips\obj\Debug\netcoreapp2.1\countTrips.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\countTrips\obj\Debug\netcoreapp2.1\countTrips.pdb

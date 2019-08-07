@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\SherlockAnagrams\bin\Debug\netcoreapp2.1\SherlockAnagrams.deps.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\SherlockAnagrams\bin\Debug\netcoreapp2.1\SherlockAnagrams.runtimeconfig.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\SherlockAnagrams\bin\Debug\netcoreapp2.1\SherlockAnagrams.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\SherlockAnagrams\bin\Debug\netcoreapp2.1\SherlockAnagrams.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\SherlockAnagrams\bin\Debug\netcoreapp2.1\SherlockAnagrams.pdb
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\SherlockAnagrams\obj\Debug\netcoreapp2.1\SherlockAnagrams.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\SherlockAnagrams\obj\Debug\netcoreapp2.1\SherlockAnagrams.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\SherlockAnagrams\obj\Debug\netcoreapp2.1\SherlockAnagrams.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\SherlockAnagrams\obj\Debug\netcoreapp2.1\SherlockAnagrams.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\SherlockAnagrams\obj\Debug\netcoreapp2.1\SherlockAnagrams.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\SherlockAnagrams\obj\Debug\netcoreapp2.1\SherlockAnagrams.pdb

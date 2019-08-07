@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\comparator\bin\Debug\netcoreapp2.1\comparator.deps.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\comparator\bin\Debug\netcoreapp2.1\comparator.runtimeconfig.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\comparator\bin\Debug\netcoreapp2.1\comparator.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\comparator\bin\Debug\netcoreapp2.1\comparator.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\comparator\bin\Debug\netcoreapp2.1\comparator.pdb
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\comparator\obj\Debug\netcoreapp2.1\comparator.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\comparator\obj\Debug\netcoreapp2.1\comparator.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\comparator\obj\Debug\netcoreapp2.1\comparator.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\comparator\obj\Debug\netcoreapp2.1\comparator.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\comparator\obj\Debug\netcoreapp2.1\comparator.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\comparator\obj\Debug\netcoreapp2.1\comparator.pdb

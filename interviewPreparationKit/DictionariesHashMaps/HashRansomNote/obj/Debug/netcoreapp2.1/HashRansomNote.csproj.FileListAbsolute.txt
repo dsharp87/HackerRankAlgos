@@ -1,0 +1,11 @@
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\HashRansomNote\obj\Debug\netcoreapp2.1\HashRansomNote.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\HashRansomNote\obj\Debug\netcoreapp2.1\HashRansomNote.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\HashRansomNote\obj\Debug\netcoreapp2.1\HashRansomNote.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\HashRansomNote\obj\Debug\netcoreapp2.1\HashRansomNote.AssemblyInfo.cs
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\HashRansomNote\bin\Debug\netcoreapp2.1\HashRansomNote.deps.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\HashRansomNote\bin\Debug\netcoreapp2.1\HashRansomNote.runtimeconfig.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\HashRansomNote\bin\Debug\netcoreapp2.1\HashRansomNote.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\HashRansomNote\bin\Debug\netcoreapp2.1\HashRansomNote.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\HashRansomNote\bin\Debug\netcoreapp2.1\HashRansomNote.pdb
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\HashRansomNote\obj\Debug\netcoreapp2.1\HashRansomNote.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\DictionariesHashMaps\HashRansomNote\obj\Debug\netcoreapp2.1\HashRansomNote.pdb
