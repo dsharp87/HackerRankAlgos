@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\fraudNotifications\bin\Debug\netcoreapp2.1\fraudNotifications.deps.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\fraudNotifications\bin\Debug\netcoreapp2.1\fraudNotifications.runtimeconfig.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\fraudNotifications\bin\Debug\netcoreapp2.1\fraudNotifications.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\fraudNotifications\bin\Debug\netcoreapp2.1\fraudNotifications.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\fraudNotifications\bin\Debug\netcoreapp2.1\fraudNotifications.pdb
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\fraudNotifications\obj\Debug\netcoreapp2.1\fraudNotifications.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\fraudNotifications\obj\Debug\netcoreapp2.1\fraudNotifications.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\fraudNotifications\obj\Debug\netcoreapp2.1\fraudNotifications.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\fraudNotifications\obj\Debug\netcoreapp2.1\fraudNotifications.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\fraudNotifications\obj\Debug\netcoreapp2.1\fraudNotifications.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\Sorting\fraudNotifications\obj\Debug\netcoreapp2.1\fraudNotifications.pdb
