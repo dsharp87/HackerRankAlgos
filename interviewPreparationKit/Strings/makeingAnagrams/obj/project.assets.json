@@ -552,7 +552,6 @@
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
-        ".nupkg.metadata",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -688,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Danny\\Desktop\\HackerRank\\HackerRankAlgos\\interviewPreparationKit\\Sorting\\comparator\\comparator.csproj",
-      "projectName": "comparator",
-      "projectPath": "c:\\Users\\Danny\\Desktop\\HackerRank\\HackerRankAlgos\\interviewPreparationKit\\Sorting\\comparator\\comparator.csproj",
+      "projectUniqueName": "C:\\Users\\Danny\\Desktop\\HackerRank\\HackerRankAlgos\\interviewPreparationKit\\Strings\\makeingAnagrams\\makeingAnagrams.csproj",
+      "projectName": "makeingAnagrams",
+      "projectPath": "C:\\Users\\Danny\\Desktop\\HackerRank\\HackerRankAlgos\\interviewPreparationKit\\Strings\\makeingAnagrams\\makeingAnagrams.csproj",
       "packagesPath": "C:\\Users\\Danny\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Danny\\Desktop\\HackerRank\\HackerRankAlgos\\interviewPreparationKit\\Sorting\\comparator\\obj\\",
+      "outputPath": "C:\\Users\\Danny\\Desktop\\HackerRank\\HackerRankAlgos\\interviewPreparationKit\\Strings\\makeingAnagrams\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
