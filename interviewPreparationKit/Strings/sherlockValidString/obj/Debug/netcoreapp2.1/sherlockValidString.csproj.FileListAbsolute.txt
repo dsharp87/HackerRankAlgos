@@ -1,0 +1,11 @@
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\sherlockValidString\bin\Debug\netcoreapp2.1\sherlockValidString.deps.json
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\sherlockValidString\bin\Debug\netcoreapp2.1\sherlockValidString.runtimeconfig.json
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\sherlockValidString\bin\Debug\netcoreapp2.1\sherlockValidString.runtimeconfig.dev.json
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\sherlockValidString\bin\Debug\netcoreapp2.1\sherlockValidString.dll
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\sherlockValidString\bin\Debug\netcoreapp2.1\sherlockValidString.pdb
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\sherlockValidString\obj\Debug\netcoreapp2.1\sherlockValidString.csprojAssemblyReference.cache
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\sherlockValidString\obj\Debug\netcoreapp2.1\sherlockValidString.csproj.CoreCompileInputs.cache
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\sherlockValidString\obj\Debug\netcoreapp2.1\sherlockValidString.AssemblyInfoInputs.cache
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\sherlockValidString\obj\Debug\netcoreapp2.1\sherlockValidString.AssemblyInfo.cs
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\sherlockValidString\obj\Debug\netcoreapp2.1\sherlockValidString.dll
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\sherlockValidString\obj\Debug\netcoreapp2.1\sherlockValidString.pdb

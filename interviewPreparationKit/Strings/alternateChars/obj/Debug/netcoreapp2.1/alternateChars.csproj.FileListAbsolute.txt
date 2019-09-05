@@ -1,0 +1,11 @@
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\alternateChars\obj\Debug\netcoreapp2.1\alternateChars.csprojAssemblyReference.cache
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\alternateChars\obj\Debug\netcoreapp2.1\alternateChars.csproj.CoreCompileInputs.cache
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\alternateChars\obj\Debug\netcoreapp2.1\alternateChars.AssemblyInfoInputs.cache
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\alternateChars\obj\Debug\netcoreapp2.1\alternateChars.AssemblyInfo.cs
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\alternateChars\bin\Debug\netcoreapp2.1\alternateChars.deps.json
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\alternateChars\bin\Debug\netcoreapp2.1\alternateChars.runtimeconfig.json
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\alternateChars\bin\Debug\netcoreapp2.1\alternateChars.runtimeconfig.dev.json
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\alternateChars\bin\Debug\netcoreapp2.1\alternateChars.dll
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\alternateChars\bin\Debug\netcoreapp2.1\alternateChars.pdb
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\alternateChars\obj\Debug\netcoreapp2.1\alternateChars.dll
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\Strings\alternateChars\obj\Debug\netcoreapp2.1\alternateChars.pdb
