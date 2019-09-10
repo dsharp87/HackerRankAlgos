@@ -1,0 +1,11 @@
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\greedyFlorist\bin\Debug\netcoreapp2.1\greedyFlorist.deps.json
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\greedyFlorist\bin\Debug\netcoreapp2.1\greedyFlorist.runtimeconfig.json
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\greedyFlorist\bin\Debug\netcoreapp2.1\greedyFlorist.runtimeconfig.dev.json
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\greedyFlorist\bin\Debug\netcoreapp2.1\greedyFlorist.dll
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\greedyFlorist\bin\Debug\netcoreapp2.1\greedyFlorist.pdb
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\greedyFlorist\obj\Debug\netcoreapp2.1\greedyFlorist.csprojAssemblyReference.cache
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\greedyFlorist\obj\Debug\netcoreapp2.1\greedyFlorist.csproj.CoreCompileInputs.cache
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\greedyFlorist\obj\Debug\netcoreapp2.1\greedyFlorist.AssemblyInfoInputs.cache
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\greedyFlorist\obj\Debug\netcoreapp2.1\greedyFlorist.AssemblyInfo.cs
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\greedyFlorist\obj\Debug\netcoreapp2.1\greedyFlorist.dll
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\greedyFlorist\obj\Debug\netcoreapp2.1\greedyFlorist.pdb
