@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\maximumMinimum\bin\Debug\netcoreapp2.1\maximumMinimum.deps.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\maximumMinimum\bin\Debug\netcoreapp2.1\maximumMinimum.runtimeconfig.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\maximumMinimum\bin\Debug\netcoreapp2.1\maximumMinimum.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\maximumMinimum\bin\Debug\netcoreapp2.1\maximumMinimum.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\maximumMinimum\bin\Debug\netcoreapp2.1\maximumMinimum.pdb
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\maximumMinimum\obj\Debug\netcoreapp2.1\maximumMinimum.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\maximumMinimum\obj\Debug\netcoreapp2.1\maximumMinimum.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\maximumMinimum\obj\Debug\netcoreapp2.1\maximumMinimum.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\maximumMinimum\obj\Debug\netcoreapp2.1\maximumMinimum.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\maximumMinimum\obj\Debug\netcoreapp2.1\maximumMinimum.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\maximumMinimum\obj\Debug\netcoreapp2.1\maximumMinimum.pdb

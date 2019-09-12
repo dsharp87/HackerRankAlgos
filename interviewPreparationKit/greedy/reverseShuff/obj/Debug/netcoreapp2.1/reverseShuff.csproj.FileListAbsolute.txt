@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\bin\Debug\netcoreapp2.1\reverseShuff.deps.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\bin\Debug\netcoreapp2.1\reverseShuff.runtimeconfig.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\bin\Debug\netcoreapp2.1\reverseShuff.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\bin\Debug\netcoreapp2.1\reverseShuff.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\bin\Debug\netcoreapp2.1\reverseShuff.pdb
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\obj\Debug\netcoreapp2.1\reverseShuff.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\obj\Debug\netcoreapp2.1\reverseShuff.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\obj\Debug\netcoreapp2.1\reverseShuff.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\obj\Debug\netcoreapp2.1\reverseShuff.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\obj\Debug\netcoreapp2.1\reverseShuff.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\obj\Debug\netcoreapp2.1\reverseShuff.pdb
