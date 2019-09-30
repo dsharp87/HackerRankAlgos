@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\v-daswa\\Desktop\\learningPractice\\OtherAlgos\\HackerRankAlgos\\interviewPreparationKit\\search\\swapNodes\\swapNodes.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\v-daswa\\Desktop\\learningPractice\\OtherAlgos\\HackerRankAlgos\\interviewPreparationKit\\search\\swapNodes\\swapNodes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\v-daswa\\Desktop\\learningPractice\\OtherAlgos\\HackerRankAlgos\\interviewPreparationKit\\search\\swapNodes\\swapNodes.csproj",
+        "projectName": "swapNodes",
+        "projectPath": "C:\\Users\\v-daswa\\Desktop\\learningPractice\\OtherAlgos\\HackerRankAlgos\\interviewPreparationKit\\search\\swapNodes\\swapNodes.csproj",
+        "packagesPath": "C:\\Users\\v-daswa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\v-daswa\\Desktop\\learningPractice\\OtherAlgos\\HackerRankAlgos\\interviewPreparationKit\\search\\swapNodes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\v-daswa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
