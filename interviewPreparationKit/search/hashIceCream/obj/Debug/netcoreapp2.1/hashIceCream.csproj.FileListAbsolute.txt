@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\search\hashIceCream\bin\Debug\netcoreapp2.1\hashIceCream.deps.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\search\hashIceCream\bin\Debug\netcoreapp2.1\hashIceCream.runtimeconfig.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\search\hashIceCream\bin\Debug\netcoreapp2.1\hashIceCream.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\search\hashIceCream\bin\Debug\netcoreapp2.1\hashIceCream.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\search\hashIceCream\bin\Debug\netcoreapp2.1\hashIceCream.pdb
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\search\hashIceCream\obj\Debug\netcoreapp2.1\hashIceCream.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\search\hashIceCream\obj\Debug\netcoreapp2.1\hashIceCream.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\search\hashIceCream\obj\Debug\netcoreapp2.1\hashIceCream.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\search\hashIceCream\obj\Debug\netcoreapp2.1\hashIceCream.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\search\hashIceCream\obj\Debug\netcoreapp2.1\hashIceCream.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\search\hashIceCream\obj\Debug\netcoreapp2.1\hashIceCream.pdb
