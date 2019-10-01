@@ -101,7 +101,7 @@ namespace reverseShuff
                 }
 
                 //is this character skippable at first glance? 
-                //are there more chacters of this string left than we need in the final string
+                //are there more characters of this string left than we need in the final string
                 else if(charMap[c].count > charMap[c].finalCount && charMap[c].finalCount != 0)
                 {    
                     //next idx of best character
@@ -112,22 +112,34 @@ namespace reverseShuff
 
                     //iterate from current point till next best 
                     int j = i - 1;
+                    
+                    //*************************************THIS IS THE IMPORTANT PART TO LOOK AT************************
+                    
+                    //i want to copy the mapping object here, so i can manipulate it to simulate characters being skipped
+                    Dictionary<char, CharMapper> copy = new Dictionary<char, CharMapper>(charMap);
+                    //need to do a DEEP CLONE, as the charmapper object is just getting copies as reference
+                    //look into ICLONABLE interface
+                    Dictionary<char, CharMapper> clone = charMap.ToDictionary(kv => kv.Key, kv => kv.Value.Clone() as CharMapper);
                     while(j != nextBestIdx)
                     {
                         char charToCheck = s[j];
                         //if there are only enough left to fulfill final count then its unskippable
-                        if(charMap[charToCheck].count == charMap[charToCheck].finalCount)
+                        if(copy[charToCheck].count == copy[charToCheck].finalCount)
                         {
                             nextUnskippableIdx = j;
                             break;
                         }
+                        charMap[charToCheck].count--;
                         j--;  
                     }
+                    //*************************************THIS IS THE IMPORTANT PART TO LOOK AT************************
                     j = i - 1;
                     bool breakFlag = false;
                     //for tracking purposes
                     char nextUnskippableChar = nextUnskippableIdx != -1 ? s[nextUnskippableIdx] : 'z';
                     //if the next best is closer than unskippable, or current character is worse than next unskippable
+                    //THERE IS A CHARACTER THAT WILL BECOME UNSKIPPABLE BEFORE NEXT BEST, AND THIS CHARACTER IS BETTER THAN IT
+                    //THE REASON ITS NOT FOUND IS THAT THERE ARE MULTIPLE INSTANCES WHAT WILL BECOME THE NEXT UNSKIPPABLE (SO ITS NOT THINKING THAT IT IS UNSKIPPABLE)
                     if(nextBestIdx >= nextUnskippableIdx || c > nextUnskippableChar)
                         breakFlag = true;
                     else
@@ -148,6 +160,7 @@ namespace reverseShuff
                     //we've determiend there are better characters before next best or next unskippable, so lets skip this one
                     if(breakFlag)
                         charMap[c].count--;
+                    //there are not better characters bef
                     else 
                     {
                         result += c;
