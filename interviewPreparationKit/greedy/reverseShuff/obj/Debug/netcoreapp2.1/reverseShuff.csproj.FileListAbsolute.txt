@@ -9,3 +9,14 @@ c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPr
 c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\obj\Debug\netcoreapp2.1\reverseShuff.AssemblyInfo.cs
 c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\obj\Debug\netcoreapp2.1\reverseShuff.dll
 c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\obj\Debug\netcoreapp2.1\reverseShuff.pdb
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\bin\Debug\netcoreapp2.1\reverseShuff.deps.json
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\bin\Debug\netcoreapp2.1\reverseShuff.runtimeconfig.json
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\bin\Debug\netcoreapp2.1\reverseShuff.runtimeconfig.dev.json
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\bin\Debug\netcoreapp2.1\reverseShuff.dll
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\bin\Debug\netcoreapp2.1\reverseShuff.pdb
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\obj\Debug\netcoreapp2.1\reverseShuff.csprojAssemblyReference.cache
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\obj\Debug\netcoreapp2.1\reverseShuff.csproj.CoreCompileInputs.cache
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\obj\Debug\netcoreapp2.1\reverseShuff.AssemblyInfoInputs.cache
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\obj\Debug\netcoreapp2.1\reverseShuff.AssemblyInfo.cs
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\obj\Debug\netcoreapp2.1\reverseShuff.dll
+c:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuff\obj\Debug\netcoreapp2.1\reverseShuff.pdb

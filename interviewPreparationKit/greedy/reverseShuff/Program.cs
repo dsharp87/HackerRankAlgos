@@ -9,10 +9,11 @@ namespace reverseShuff
         static void Main(string[] args)
         {
             // string s = "gfedcbagfedcbagfedcbagfedcba";
-            string s = "djjcddjggbiigjhfghehhbgdigjicafgjcehhfgifadihiajgciagicdahcbajjbhifjiaajigdgdfhdiijjgaiejgegbbiigida";
+            string s = "sbcnzxqnrygkocahxjebvueaawwcythjdrhvizqsshgtwdolmillxpshxpxqrywkivceufclhydhshrklkphajbftuapiocjlcthfirhgaohfysqjolssbzhbovdstbyqdpnjbpfmgqrzfctcwcrztvgbegunarvecseoulabaonguckqbtrvuagreyclyjytpvozqdnhldlnsocenuzksawirgsbjobpldjdlrxbricrauuksbmecvvwagnnacaqghmjpzrlsvlpbbcuaddgvlhvuvkxexjcfhxrodmcwlrzyyiksuksshhonahsyzbbprwuitmoyoqurtqsaslevgvpfbzkkhgcnpjdpseuiylluvdetsqssbrxpiclxxvosuqipsqvvwsezhl";
+            string t = "aaaaaavvcembskuabxddlpbbsgiaskucosdlhndqzovpjlcyerauvrbcugnbluescevrnubgvtzrcwccfzrqgmfpbjnpdqybtsdvobhzsslojqsyfhoghrifhtclcoiputjhpklkrhsdyhlcuevikwyrqxpxhspxllimlowtghssqzivhrjtywweuvejxokgyrnqxzns";
 
             // String.Concat(s.OrderBy(c => c));
-            reverseShuffleMerge(s);
+            reverseShuffleMerge(s,t);
         }
 
 
@@ -36,7 +37,7 @@ namespace reverseShuff
             }
         }
 
-        static string reverseShuffleMerge(string s) {
+        static string reverseShuffleMerge(string s, string t) {
             
             //create map of all characters, their counts, and indexes
             Dictionary<char, CharMapper> charMap = new  Dictionary<char, CharMapper>();
@@ -96,24 +97,25 @@ namespace reverseShuff
                     charMap[c].count -= 1;
                     charMap[c].finalCount -= 1;
                     int numidx = Array.IndexOf(orderedChars, c);
-                    orderedChars = orderedChars.Where((idx) => idx != numidx).ToArray();
+                    orderedChars = orderedChars.Where((val, idx) => idx != numidx).ToArray();
                 }
 
                 //is this character skippable at first glance? 
                 //are there more chacters of this string left than we need in the final string
-                else if(charMap[c].count > charMap[c].finalCount)
+                else if(charMap[c].count > charMap[c].finalCount && charMap[c].finalCount != 0)
                 {    
                     //next idx of best character
                     int nextBestIdx = charMap[orderedChars[0]].indexes.Where( idx => idx < i).Max();
 
                     //next unskippable idx
                     int nextUnskippableIdx = -1;
-            //********************************************************borken part */
+
                     //iterate from current point till next best 
                     int j = i - 1;
                     while(j != nextBestIdx)
                     {
                         char charToCheck = s[j];
+                        //if there are only enough left to fulfill final count then its unskippable
                         if(charMap[charToCheck].count == charMap[charToCheck].finalCount)
                         {
                             nextUnskippableIdx = j;
@@ -123,31 +125,27 @@ namespace reverseShuff
                     }
                     j = i - 1;
                     bool breakFlag = false;
-                    while(j > nextBestIdx && j > nextUnskippableIdx)
+                    //for tracking purposes
+                    char nextUnskippableChar = nextUnskippableIdx != -1 ? s[nextUnskippableIdx] : 'z';
+                    //if the next best is closer than unskippable, or current character is worse than next unskippable
+                    if(nextBestIdx >= nextUnskippableIdx || c > nextUnskippableChar)
+                        breakFlag = true;
+                    else
                     {
-                        char charToCheck = s[j];
-                        if(charToCheck < c && charMap[charToCheck].finalCount > 0)
+                        //we want to look for a better character than current character before we hit the idx of next best option or an unskippable
+                        while(j > nextBestIdx && j > nextUnskippableIdx)
                         {
-                            breakFlag = true;
-                            break;
+                            char charToCheck = s[j];
+                            //is this character better choice? if yes we can stop looking and skip this character
+                            if(charToCheck < c && charMap[charToCheck].finalCount > 0)
+                            {
+                                breakFlag = true;
+                                break;
+                            }
+                            j--;
                         }
-                        //if we encounter a character that is unskippable 
-                        //and is greater than this character we want to break
-                        // if(charToCheck > c && charMap[charToCheck].count == charMap[charToCheck].finalCount)
-                        // {
-                        //     breakFlag = true;
-                        //     break;
-                        // }
-
-                        // //if we encounter a character that is smaller, and we still need it, it COULD BE THE SMALLEST
-                        // //WRONG
-                        // else if(charToCheck < c && charMap[charToCheck].finalCount > 0)
-                        // {
-                        //     breakFlag = true;
-                        //     break;
-                        // }
-                        j--;
                     }
+                    //we've determiend there are better characters before next best or next unskippable, so lets skip this one
                     if(breakFlag)
                         charMap[c].count--;
                     else 
@@ -156,22 +154,15 @@ namespace reverseShuff
                         charMap[c].count -= 1;
                         charMap[c].finalCount -= 1;
                         int numidx = Array.IndexOf(orderedChars, c);
-                        orderedChars = orderedChars.Where((idx) => idx != numidx).ToArray();
+                        orderedChars = orderedChars.Where((val, idx) => idx != numidx).ToArray();
                     }
                     //********************************************************borken part */
                 }
-                //THERE IS A CONDITION HERE WHERE ITS BETTER TO TAKE A NON FIRST CHARACTER INSTEAD OF SKIPPING IT
-                //THINK ABOUT WHY THIS COULD BE, FOR INSTANCE PUTTING A C IN WHEN THERE ARE STILL B'S TO BE FOUND
-                //NEED A WAY TO TRACK THE LETTERS THAT ARE CURRENTLY UNSKIPPABLE COMPARED TO CURRENT LETTER IS ADD CURRENT LETER PREMATURELY
-                //IF THE NEXT UNSKIPPABLE LETER COMES BEFORE ALL LETERS HIGHER PRIORETY THAN THE CURRENT LETTER 
-
-
-                //array of indexes of 
-
-                //best option if current character is better lexigraphical choice compared to all unskippable characters that occur before the next instance of ordered[0]
-             
-
-               
+                // the only condition left is that we found lexagraphical better character that we don't need any more of
+                else
+                {
+                    charMap[c].count--;
+                }
                 //if we've completd the string, stop looping
                 if(result.Length == strLength)
                     break;
