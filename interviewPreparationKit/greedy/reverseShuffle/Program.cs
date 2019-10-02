@@ -25,7 +25,8 @@ namespace reverseShuff
         //input will contain 2(A) of each charcter where Y is the count of that charcter in A
         //LEXAGRAPHICAL ORDER IS THE HARD PART
 
-        public class CharMapper
+        //need to inherit from cloneable interface so we can deep clone this in algorythm
+        public class CharMapper : ICloneable
         {
             public int count = 1;
             public int finalCount = 0;
@@ -34,6 +35,16 @@ namespace reverseShuff
             public CharMapper(int firstIdx)
             {
                 indexes = new List<int>(){firstIdx};
+            }
+
+            //must clone self so for deep cloning
+            public object Clone()
+            {
+                CharMapper clone = new CharMapper(0);
+                clone.count = this.count;
+                clone.finalCount = this.finalCount;
+                clone.indexes = this.indexes;
+                return clone;
             }
         }
 
@@ -116,20 +127,22 @@ namespace reverseShuff
                     //*************************************THIS IS THE IMPORTANT PART TO LOOK AT************************
                     
                     //i want to copy the mapping object here, so i can manipulate it to simulate characters being skipped
-                    Dictionary<char, CharMapper> copy = new Dictionary<char, CharMapper>(charMap);
-                    //need to do a DEEP CLONE, as the charmapper object is just getting copies as reference
-                    //look into ICLONABLE interface
+                    //COPY ONLY SHALLOW COPIES THE DICTIONARY, MEANING THE CHARMAPPER OBJECTS ARE STILL REFERENCING THE ORGIONAL
+                    // Dictionary<char, CharMapper> copy = new Dictionary<char, CharMapper>(charMap);
+                    
+                    //DEEP CLONE, charMapper Objects are now independant and not a reference
                     Dictionary<char, CharMapper> clone = charMap.ToDictionary(kv => kv.Key, kv => kv.Value.Clone() as CharMapper);
+                    
                     while(j != nextBestIdx)
                     {
                         char charToCheck = s[j];
                         //if there are only enough left to fulfill final count then its unskippable
-                        if(copy[charToCheck].count == copy[charToCheck].finalCount)
+                        if(clone[charToCheck].count == clone[charToCheck].finalCount)
                         {
                             nextUnskippableIdx = j;
                             break;
                         }
-                        charMap[charToCheck].count--;
+                        clone[charToCheck].count--;
                         j--;  
                     }
                     //*************************************THIS IS THE IMPORTANT PART TO LOOK AT************************
