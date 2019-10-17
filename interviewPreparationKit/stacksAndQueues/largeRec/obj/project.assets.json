@@ -558,6 +558,7 @@
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
+        ".nupkg.metadata",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -693,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\v-daswa\\Desktop\\learningPractice\\OtherAlgos\\HackerRankAlgos\\interviewPreparationKit\\greedy\\reverseShuffle\\reverseShuffle.csproj",
-      "projectName": "reverseShuffle",
-      "projectPath": "c:\\Users\\v-daswa\\Desktop\\learningPractice\\OtherAlgos\\HackerRankAlgos\\interviewPreparationKit\\greedy\\reverseShuffle\\reverseShuffle.csproj",
+      "projectUniqueName": "C:\\Users\\v-daswa\\Desktop\\learningPractice\\OtherAlgos\\HackerRankAlgos\\interviewPreparationKit\\stacksAndQueues\\largeRec\\largeRec.csproj",
+      "projectName": "largeRec",
+      "projectPath": "C:\\Users\\v-daswa\\Desktop\\learningPractice\\OtherAlgos\\HackerRankAlgos\\interviewPreparationKit\\stacksAndQueues\\largeRec\\largeRec.csproj",
       "packagesPath": "C:\\Users\\v-daswa\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\v-daswa\\Desktop\\learningPractice\\OtherAlgos\\HackerRankAlgos\\interviewPreparationKit\\greedy\\reverseShuffle\\obj\\",
+      "outputPath": "C:\\Users\\v-daswa\\Desktop\\learningPractice\\OtherAlgos\\HackerRankAlgos\\interviewPreparationKit\\stacksAndQueues\\largeRec\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

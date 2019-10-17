@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\stacksAndQueues\largeRec\bin\Debug\netcoreapp2.1\largeRec.deps.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\stacksAndQueues\largeRec\bin\Debug\netcoreapp2.1\largeRec.runtimeconfig.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\stacksAndQueues\largeRec\bin\Debug\netcoreapp2.1\largeRec.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\stacksAndQueues\largeRec\bin\Debug\netcoreapp2.1\largeRec.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\stacksAndQueues\largeRec\bin\Debug\netcoreapp2.1\largeRec.pdb
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\stacksAndQueues\largeRec\obj\Debug\netcoreapp2.1\largeRec.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\stacksAndQueues\largeRec\obj\Debug\netcoreapp2.1\largeRec.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\stacksAndQueues\largeRec\obj\Debug\netcoreapp2.1\largeRec.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\stacksAndQueues\largeRec\obj\Debug\netcoreapp2.1\largeRec.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\stacksAndQueues\largeRec\obj\Debug\netcoreapp2.1\largeRec.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\stacksAndQueues\largeRec\obj\Debug\netcoreapp2.1\largeRec.pdb

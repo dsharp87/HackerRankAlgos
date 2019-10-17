@@ -1,0 +1,11 @@
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuffle\bin\Debug\netcoreapp2.1\reverseShuffle.deps.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuffle\bin\Debug\netcoreapp2.1\reverseShuffle.runtimeconfig.json
+C:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuffle\bin\Debug\netcoreapp2.1\reverseShuffle.runtimeconfig.dev.json
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuffle\bin\Debug\netcoreapp2.1\reverseShuffle.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuffle\bin\Debug\netcoreapp2.1\reverseShuffle.pdb
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuffle\obj\Debug\netcoreapp2.1\reverseShuffle.csprojAssemblyReference.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuffle\obj\Debug\netcoreapp2.1\reverseShuffle.csproj.CoreCompileInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuffle\obj\Debug\netcoreapp2.1\reverseShuffle.AssemblyInfoInputs.cache
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuffle\obj\Debug\netcoreapp2.1\reverseShuffle.AssemblyInfo.cs
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuffle\obj\Debug\netcoreapp2.1\reverseShuffle.dll
+c:\Users\v-daswa\Desktop\learningPractice\OtherAlgos\HackerRankAlgos\interviewPreparationKit\greedy\reverseShuffle\obj\Debug\netcoreapp2.1\reverseShuffle.pdb
