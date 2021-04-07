@@ -1,0 +1,11 @@
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\minimumtimerequired\bin\Debug\netcoreapp2.1\minimumtimerequired.deps.json
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\minimumtimerequired\bin\Debug\netcoreapp2.1\minimumtimerequired.runtimeconfig.json
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\minimumtimerequired\bin\Debug\netcoreapp2.1\minimumtimerequired.runtimeconfig.dev.json
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\minimumtimerequired\bin\Debug\netcoreapp2.1\minimumtimerequired.dll
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\minimumtimerequired\bin\Debug\netcoreapp2.1\minimumtimerequired.pdb
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\minimumtimerequired\obj\Debug\netcoreapp2.1\minimumtimerequired.csprojAssemblyReference.cache
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\minimumtimerequired\obj\Debug\netcoreapp2.1\minimumtimerequired.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\minimumtimerequired\obj\Debug\netcoreapp2.1\minimumtimerequired.AssemblyInfoInputs.cache
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\minimumtimerequired\obj\Debug\netcoreapp2.1\minimumtimerequired.AssemblyInfo.cs
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\minimumtimerequired\obj\Debug\netcoreapp2.1\minimumtimerequired.dll
+C:\Users\Danny\Desktop\HackerRank\HackerRankAlgos\minimumtimerequired\obj\Debug\netcoreapp2.1\minimumtimerequired.pdb
